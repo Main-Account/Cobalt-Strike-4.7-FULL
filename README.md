@@ -22,7 +22,7 @@ sudo chmod +x teamserver teamserverimage cobaltstrike start.sh
 ./teamserver <IP> <Password>
 ```
 
-![alt text](https://i.ibb.co/yhmys1G/2Capture.png)
+![alt text](https://i.ibb.co/4wywrgD/Capture.png)
 
 
 > And start cobalt strike :
