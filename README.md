@@ -43,5 +43,3 @@ sudo chmod +x teamserver teamserverimage cobaltstrike start.sh
 
 
 
-Happy hacking =)
-
