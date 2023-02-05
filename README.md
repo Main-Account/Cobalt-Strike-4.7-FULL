@@ -9,4 +9,8 @@ All beacons have been checked with wireshark, it seems safe to me, but use it in
 ![alt text](https://i.ibb.co/CvF0Zjd/Capture.png)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+Link : https://anonfiles.com/RdX2H5M3yc/CS4.7_7z
+
 Happy hacking =)
+
